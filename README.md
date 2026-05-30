@@ -30,7 +30,16 @@ This is a responsive Event Photo Gallery Website designed to showcase school eve
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](Screenshot 2026-05-30 173254.png)
+
+### 🎉 Event Gallery
+![Gallery](Screenshot 2026-05-30 173303.png)
+
+### 🔍 Image Preview
+![Preview](Screenshot 2026-05-30 173309.png)
 
 ---
 
